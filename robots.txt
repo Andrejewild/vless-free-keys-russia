@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://andrejewild.github.io/vless-free-keys-russia/sitemap.xml
